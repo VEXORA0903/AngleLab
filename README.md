@@ -1,24 +1,30 @@
 # AngleLab
 
-A pool and billiards angle calculator designed to visualize cue-ball paths and cushion rebounds.
+A pool angle calculator and trajectory visualization tool designed to help players understand and visualize cue-ball paths and cushion shots.
 
 ## Features
 
-- Calculate pool angles and cushion paths.
-- Select between 1, 2, 3, and 4 bounces.
-- Display bounce points.
-- Switch between multiple valid paths.
-- Transparent drawing overlay.
-- Visualize possible ball trajectories.
+- Pool angle calculations
+- Cushion path visualization
+- Multiple path options
+- Visual trajectory planning
+- Simple and intuitive interface
+
+## Platform
+
+Windows
+
+## Installation
+
+1. Download the application from the Releases section.
+2. Extract the downloaded ZIP file.
+3. Open the application folder.
+4. Run `AngleLab Overlay.exe`.
 
 ## Project Status
 
 Currently under development.
 
-## Installation
+## Feedback and Contributions
 
-Download the latest version from the **Releases** section.
-
-## Contributions
-
-Suggestions, bug reports, and improvements are welcome.
+Bug reports, suggestions, and contributions are welcome.
