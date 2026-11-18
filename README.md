@@ -28,3 +28,12 @@ Currently under development.
 ## Feedback and Contributions
 
 Bug reports, suggestions, and contributions are welcome.
+
+## Screenshots
+
+### Main Interface
+![Main Interface](main-interface.png)
+
+### Path Visualization
+![Path Visualization](path-visualization.png)
+
